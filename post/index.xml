@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Chidili Oscar</title>
+    <link>https://Oscardafuscar.github.io/oscar_portfolio/post/</link>
+    <description>Recent content in Projects on Chidili Oscar</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 02 Mar 2017 12:00:00 -0500</lastBuildDate><atom:link href="https://Oscardafuscar.github.io/oscar_portfolio/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Credit Card Fraud Detection (Logistic regression Model)</title>
+      <link>https://Oscardafuscar.github.io/oscar_portfolio/post/project-2/</link>
+      <pubDate>Sat, 10 Apr 2021 11:00:59 -0400</pubDate>
+      
+      <guid>https://Oscardafuscar.github.io/oscar_portfolio/post/project-2/</guid>
+      <description>The use of NumPy, pandas, matplotlib and seaborn aided the project scope.
+Data exploration to summarize the total number of fraud and not fraud transactions. Split data into training and test set data and choose features and target variable used for the selected logistic regression model. Fitted a logistic regression model to the training data using an optimization algorithm Usingmetrics such as accuracy, precision, recall, and F1 score to evaluate the model&amp;rsquo;s performance.</description>
+    </item>
+    
+    <item>
+      <title>Extracting and Visualizing Stock Data</title>
+      <link>https://Oscardafuscar.github.io/oscar_portfolio/post/project-1/</link>
+      <pubDate>Fri, 09 Apr 2021 10:58:08 -0400</pubDate>
+      
+      <guid>https://Oscardafuscar.github.io/oscar_portfolio/post/project-1/</guid>
+      <description>The stock data of Tesla and GameStop is collected using two methods: yfinance to extract stock data and webscraping to extract revenue data. The stock data is then used to create two graphs, one for Tesla stock and one for GameStop stock.
+Extracting Tesla stock information using the ticker object and history function, resetting the index, displaying the first five rows of the dataframe, and taking a screenshot of the results and code.</description>
+    </item>
+    
+  </channel>
+</rss>
